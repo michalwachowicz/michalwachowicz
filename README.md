@@ -8,6 +8,8 @@ I'm a software engineer passionate about creating seamless, user-focused web app
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Vitest](https://img.shields.io/badge/-Vitest-000?&logo=Vitest)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-000?&logo=TestingLibrary)
 
 ### Technology Stack
 
