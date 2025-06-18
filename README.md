@@ -2,24 +2,18 @@
 
 I'm a software engineer passionate about creating seamless, user-focused web applications. Currently diving deep into front-end development, I'm on the path to becoming a full-stack developer. I am interested in UX/UI design and love designing intuitive interfaces to ensure my projects are functional and visually engaging!
 
-### Technology Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-000.svg?logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Zod](https://img.shields.io/badge/-Zod-000?logo=zod)
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
-
-### Styling & UI
-
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=css&logoColor=2965f1)
 ![Sass](https://img.shields.io/badge/-Sass-000?logo=sass)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
 ![Material UI](https://img.shields.io/badge/-MUI-000?logo=mui)
-
-### Databases & APIs
-
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Zod](https://img.shields.io/badge/-Zod-000?logo=zod)
+![Express](https://img.shields.io/badge/-Express-000?logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql&logoColor=e10098)
 
